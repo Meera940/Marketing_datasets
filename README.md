@@ -1,12 +1,12 @@
-# 🛒 Market Basket Analysis Dataset
+ Market Basket Analysis Dataset
 
-## 📌 Overview
+ Overview
 
 This repository contains a **Market Basket Analysis** dataset generated using association rule mining techniques. The dataset includes relationships between products that are frequently purchased together and provides important metrics such as **support, confidence, lift, leverage, and conviction**. It is useful for learning data mining concepts, association rule mining, recommendation systems, and retail analytics.
 
 ---
 
-## 📂 Dataset Information
+ Dataset Information
 
 | Feature        | Description                                                                                              |
 | -------------- | -------------------------------------------------------------------------------------------------------- |
@@ -21,7 +21,7 @@ This repository contains a **Market Basket Analysis** dataset generated using as
 
 ---
 
-## 🎯 Objectives
+ Objectives
 
 * Analyze customer purchasing patterns.
 * Discover frequently bought-together products.
@@ -31,7 +31,7 @@ This repository contains a **Market Basket Analysis** dataset generated using as
 
 ---
 
-## 📊 Example Data
+Example Data
 
 | antecedent       | consequent       | support | confidence | lift   |
 | ---------------- | ---------------- | ------- | ---------- | ------ |
@@ -41,7 +41,7 @@ This repository contains a **Market Basket Analysis** dataset generated using as
 
 ---
 
-## 🛠️ Technologies Used
+ Technologies Used
 
 * Python
 * Pandas
@@ -52,7 +52,7 @@ This repository contains a **Market Basket Analysis** dataset generated using as
 
 ---
 
-## 📈 Possible Analyses
+ Possible Analyses
 
 * Top association rules
 * Product recommendation system
@@ -62,7 +62,7 @@ This repository contains a **Market Basket Analysis** dataset generated using as
 
 ---
 
-## 🚀 How to Use
+ How to Use
 
 1. Clone this repository.
 2. Install the required Python libraries:
@@ -82,7 +82,7 @@ This repository contains a **Market Basket Analysis** dataset generated using as
 
 ---
 
-## 📚 Applications
+ Applications
 
 * Retail Analytics
 * E-commerce Product Recommendations
